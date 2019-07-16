@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fixed
 
 ### Changed
+- Changed block ``user_account_newsletter`` in form/fieldset/user_account.tpl from inner form-group to outer form-group
 
 ## [3.3.0] - 2019-07-12
 
